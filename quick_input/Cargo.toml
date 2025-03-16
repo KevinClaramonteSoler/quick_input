@@ -1,0 +1,9 @@
+[package]
+name = "quick_input"
+version = "0.1.0"
+edition = "2024"
+authors = ["Kevin Claramonte Soler (kevclasol@proton.me)"]
+description = "A lightweight library to easily handle user input wich supports custom messages."
+license = "Apache-2.0"
+
+[dependencies]
